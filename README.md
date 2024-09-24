@@ -11,6 +11,7 @@ A simple snake game built using vanilla JavaScript, HTML, and CSS. The game trac
 
 ## Demo
 You can play the game by opening the `index.html` file in your browser.
+<a href="https://sachin-kumar-2003.github.io/snake/">Click here for Demo...</a>
 
 
 ## How to Play
